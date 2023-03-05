@@ -32,7 +32,6 @@ body {
 }
 
 .objectives {
-    background: rgb(255,1,0);
     display: flex;
     flex-direction: row;
 }
@@ -41,5 +40,5 @@ body {
     background: gray;
     flex-grow: 1;
     flex-basis: 0;
-    border: 1px solid rgb(0, 139, 208);
+    padding: 40px 30px;
 }
