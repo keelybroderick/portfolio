@@ -40,5 +40,6 @@ body {
     background: gray;
     flex-grow: 1;
     flex-basis: 0;
+    flex-wrap: wrap;
     padding: 40px 30px;
 }
