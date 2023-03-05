@@ -38,5 +38,5 @@ body {
 .centerboxed3 {
     background: gray;
     width: 200px;
-
+    display: inline-block;
 }
