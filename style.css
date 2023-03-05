@@ -29,6 +29,6 @@ body {
 
 .title {
     text-align: center;
-    width: 1000px;
+    max-width: 1000px;
 }
 
