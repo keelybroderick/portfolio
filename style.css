@@ -32,5 +32,7 @@ body {
 }
 
 .centerboxed3 {
-    background: gray
+    background: gray;
+    display: inline-block;
+    padding: 20px;
 }
