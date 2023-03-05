@@ -37,6 +37,5 @@ body {
 
 .centerboxed3 {
     background: gray;
-    display: flex;
-    justify-content: space-between;
+
 }
