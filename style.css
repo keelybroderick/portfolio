@@ -1,0 +1,27 @@
+
+
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+}
+h3 {
+    font-size: 26px;
+    font-weight: bold;
+}
+h4 {
+    font-size: 26px;
+    font-weight: lighter;
+}
+h5 {
+    font-size: 22px;
+    font-weight: bold;
+}
+body {
+    font-size: 20px;
+    font-family: sans-serif;
+}
