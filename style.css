@@ -32,12 +32,10 @@ body {
 }
 
 .objectives {
-    display: flex;
-    flex-direction: row;
+    display: inline-block;
 }
 
 .centerboxed3 {
     background: gray;
     flex-grow: 1;
-    flex-wrap: wrap;
 }
