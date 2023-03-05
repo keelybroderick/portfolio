@@ -35,4 +35,5 @@ body {
     background: gray;
     display: inline-block;
     padding: 20px;
+    width: 100px;
 }
