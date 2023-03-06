@@ -1,11 +1,16 @@
 @media(min-width:468px){  
+    .toprow {
+        display:flex;  
+        justify-content:center;}
+    .botrow {
+        display:flex;  
+        justify-content:space-between;}
     .objectives{
         display:flex;  
         justify-content:space-between;}
     .tiktok {
         display:flex;  
-        justify-content:center
-    }
+        justify-content:center;}
 }
 
 h1 {
@@ -41,10 +46,23 @@ body {
     background: rgb(255,1,0);
 }
 
+
+.toprow {
+    border:1px #ccc solid;
+    padding:20px;
+    flex-basis: 25%;
+}
+.botrow {
+    border:1px #ccc solid;
+    padding:20px;
+    flex-basis: 25%;
+}
+
+
+
 .objectives div{
     border:1px #ccc solid;
     padding:20px;}
 .objectivesbox{
     flex-basis: 25%;}
 
-    
