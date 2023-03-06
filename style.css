@@ -38,9 +38,9 @@ body {
 
 .objectives div{
 padding: 10px;
-background: rgb(255,1,0);
 }
 
 .centerboxed3 {
     flex: 1;
+    background: rgb(255,1,0);
 }
