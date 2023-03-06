@@ -2,6 +2,10 @@
     .objectives{
         display:flex;  
         justify-content:space-between;}
+    .tiktok {
+        display:flex;  
+        justify-content:center
+    }
 }
 
 h1 {
@@ -42,3 +46,5 @@ body {
     padding:20px;}
 .objectivesbox{
     flex-basis: 25%;}
+
+    
