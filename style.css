@@ -2,11 +2,13 @@
     .container-2{
       display:flex;  
       justify-content:space-between;}
-    }
+      flex-wrap: wrap;
+
     .tiktok{
         display:flex;  
         justify-content:center;}
-      }
+        flex-wrap: wrap;
+}
 h1 {
     font-size: 40px;
     font-weight: bold;
