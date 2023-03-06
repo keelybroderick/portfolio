@@ -1,14 +1,7 @@
-@media(min-width:468px){  
-    .teamphoto {
-        display:flex;  
-        justify-content:space-between;}
-    .objectives{
-        display:flex;  
-        justify-content:space-between;}
-    .tiktok {
-        display:flex;  
-        justify-content:center;}
-}
+@media(min-width:468px){ 
+    .container-2{
+      display:flex;  
+      justify-content:space-between;}
 
 h1 {
     font-size: 40px;
@@ -43,18 +36,10 @@ body {
     background: rgb(255,1,0);
 }
 
-.teamphoto div{
+.container-2 div{
     border:1px #ccc solid;
-    padding:20px;}
-.toprow{
-    flex-basis: 25%;}
-.botrow{
-    flex-basis: 25%;}
-
-
-.objectives div{
-    border:1px #ccc solid;
-    padding:20px;}
-.objectivesbox{
-    flex-basis: 25%;}
-
+    padding:10px;
+  } 
+  .container-2-box{
+    flex-basis: 27%;  
+  }
