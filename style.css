@@ -1,8 +1,5 @@
 @media(min-width:468px){  
-    .toprow {
-        display:flex;  
-        justify-content:center;}
-    .botrow {
+    .teamphoto {
         display:flex;  
         justify-content:space-between;}
     .objectives{
@@ -46,18 +43,13 @@ body {
     background: rgb(255,1,0);
 }
 
-
-.toprow {
+.teamphoto div{
     border:1px #ccc solid;
-    padding:20px;
-    flex-basis: 25%;
-}
-.botrow {
-    border:1px #ccc solid;
-    padding:20px;
-    flex-basis: 25%;
-}
-
+    padding:20px;}
+.toprow{
+    flex-basis: 25%;}
+.botrow{
+    flex-basis: 25%;}
 
 
 .objectives div{
