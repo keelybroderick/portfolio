@@ -1,14 +1,4 @@
-@media(min-width:468px){ 
-    .container-2{
-      display:flex;  
-      justify-content:space-between;}
-      flex-wrap: wrap;
 
-    .tiktok{
-        display:flex;  
-        justify-content:center;}
-        flex-wrap: wrap;
-}
 h1 {
     font-size: 40px;
     font-weight: bold;
@@ -42,10 +32,22 @@ body {
     background: rgb(255,1,0);
 }
 
-.container-2 div{
-    border:1px #ccc solid;
+.tiktok{
+    display:flex;  
+    justify-content:center;
+    flex-wrap: wrap;
+}
+
+.container-2 {
     padding:10px;
-  } 
+    display:flex;  
+    justify-content:space-between;
+    flex-wrap: wrap;
+}
+
   .container-2-box{
-    flex-basis: 27%;  
+    flex-basis: 25%;  
   }
+
+
+
