@@ -39,6 +39,6 @@ body {
 
 .objectives div{
     border:1px #ccc solid;
-    padding:10px;}
+    padding:20px;}
 .objectivesbox{
-    flex-basis: 27%;}
+    flex-basis: 25%;}
