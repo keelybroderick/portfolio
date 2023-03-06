@@ -1,3 +1,9 @@
+@media(min-width:468px){  
+    .container{
+        display:flex;  
+        justify-content:space-between;}
+}
+
 h1 {
     font-size: 40px;
     font-weight: bold;
@@ -31,16 +37,11 @@ body {
     background: rgb(255,1,0);
 }
 
-.objectives {
-    display: flex;
-    justify-content: space-between;
-}
-
-.objectives div{
-padding: 10px;
-}
-
-.centerboxed3 {
-    flex: 1;
-    background: rgb(255,1,0);
-}
+.container div{
+    border:1px #ccc solid;
+    padding:10px;}
+.box{
+    flex:1;
+    order:1;}
+.container-box{
+    flex-basis: 27%;}
