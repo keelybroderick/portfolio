@@ -36,6 +36,10 @@ body {
     justify-content: space-between;
 }
 
-.centerboxed3 {
+.objectives div{
+padding: 10px;
+}
 
+.centerboxed3 {
+    flex: 1;
 }
