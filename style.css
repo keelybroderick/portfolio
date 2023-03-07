@@ -33,6 +33,9 @@ body {
 }
 .title div {
     max-width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .flex-container {
