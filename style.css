@@ -28,8 +28,6 @@ body {
 }
 
 .title {
-    display: flex;
-    flex-wrap: nowrap;
     justify-content: center;
     text-align: center;
     background: rgb(255,1,0);
