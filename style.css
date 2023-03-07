@@ -28,14 +28,14 @@ body {
 }
 
 .title {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     text-align: center;
     background: rgb(255,1,0);
 }
 .title div {
-    max-width: 500px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    max-width: 600px;
 }
 
 .flex-container {
