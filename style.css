@@ -74,8 +74,9 @@ body {
     margin: 10rem auto 0 auto;}
 .section img {
     height: 250px;}
-.section h1{
+.section h3{
     margin: 0;
     color: yellow;}
 .section p{
+    margin: 0;
     color: white;}
