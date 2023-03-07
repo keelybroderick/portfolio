@@ -32,11 +32,6 @@ body {
     background: rgb(255,1,0);
 }
 
-.tiktok{
-    display:flex;  
-    justify-content:center;
-    flex-wrap: wrap;
-}
 
 .flex-container {
     display: flex;
