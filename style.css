@@ -28,11 +28,11 @@ body {
 }
 
 .title {
-    justify-content: center;
     text-align: center;
     background: rgb(255,1,0);
 }
 .title div {
+    justify-content: center;
     max-width: 650px;
 }
 
