@@ -31,7 +31,9 @@ body {
     text-align: center;
     background: rgb(255,1,0);
 }
-
+.title div {
+    max-width: 500px;
+}
 
 .flex-container {
     display: flex;
