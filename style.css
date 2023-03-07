@@ -29,12 +29,11 @@ body {
 
 .title {
     text-align: center;
-    background: rgb(255,1,0);
-}
-.title div {
-    justify-content: center;
-    max-width: 650px;
-}
+    background: rgb(255,1,0);}
+.title div{
+    background-color: #f1f1f1;
+    width: 650px;
+    text-align: center;}
 
 .flex-container {
     display: flex;
