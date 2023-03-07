@@ -29,13 +29,13 @@ body {
 
 .title {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     justify-content: center;
     text-align: center;
     background: rgb(255,1,0);
 }
 .title div {
-    max-width: 600px;
+    max-width: 650px;
 }
 
 .flex-container {
