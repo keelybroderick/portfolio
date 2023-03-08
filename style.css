@@ -38,6 +38,7 @@ h1 {
 h2 {
     font-size: 32px;
     font-weight: bold;
+    text-decoration: underline;
 }
 h3 {
     font-size: 26px;
@@ -62,7 +63,7 @@ body {
 
 .title {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     justify-content: center;
     background: rgb(255,1,0);
 }
@@ -92,10 +93,6 @@ body {
     padding: 20px;
     margin: 10px 30px;
     border-radius: 10px;
-}
-.flex-container img{
-    width: 100%;
-    height: auto;
 }
 
 
