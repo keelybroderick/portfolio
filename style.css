@@ -195,28 +195,20 @@ body {
 
 
 
+
 .section {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    width: 600px;
+    background-color: rgb(244, 0, 179);
 }
 .section div{
-    width: 550px;
+    background-color: #f1f1f1;
+    width: 300px;
     padding: 20px;
     margin: 10px 30px;
     border-radius: 10px;
-    background-color: rgb(244, 0, 179);
-    margin: 10px 30px;
 }
-.sectioncopy {
-    padding-right: 20px;
-}
-
-
-
-
-
 
 
 
