@@ -229,6 +229,9 @@ body {
     text-decoration: none;
     list-style: none;
   }
+  .col_1 .col_2 .col_3 .col_4{
+    padding-right: 10px;
+  }
   .footer{
      background: #222222;
      padding: 50px;
