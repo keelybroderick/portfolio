@@ -196,15 +196,15 @@ body {
 
 
 .section {
-
     display: flex;
-
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 600px;
     margin: 40px auto 0 auto;}
 .section div{
     width: 550px;
-    display: flex;
-    flex-wrap: wrap;
     background-color: pink;
+    margin: 10px 30px;
 }
 .sectioncopy {
     padding-right: 20px;
@@ -213,9 +213,13 @@ body {
     width: 100%;
     height: auto;
 }
-.section h3{
-    margin: 0;
-}
+
+
+
+
+
+
+
 
 
 
