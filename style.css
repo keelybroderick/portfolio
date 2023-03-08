@@ -68,7 +68,17 @@ body {
     height: auto;}
 
 
-
+    .full {
+        display: flex;
+        background: purple;}
+      .half {
+        display: flex;}
+      .rightside {
+        flex: 1;
+        background: lightblue;}
+      .leftside {
+        flex: 1;
+        background: lightgreen;}
 
 
 .lefttext {
