@@ -63,7 +63,7 @@ body {
 
 .title {
     display: flex;
-    flex-wrap: wrap;
+
     justify-content: center;
     background: rgb(255,1,0);
 }
