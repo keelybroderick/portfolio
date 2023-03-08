@@ -87,13 +87,16 @@ body {
     justify-content: center;
     background-color: blue;
 }
-
 .flex-container div{
     background-color: #f1f1f1;
     width: 300px;
     padding: 20px;
     margin: 10px 30px;
     border-radius: 10px;
+}
+.flex-container img{
+    width: 100%;
+    height: auto;
 }
 
 
