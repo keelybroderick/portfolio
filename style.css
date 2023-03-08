@@ -167,11 +167,13 @@ body {
     flex: 1;
     background: lightblue;
     text-align: center;
+    padding: auto;
 }
 .leftside {
     flex: 1;
     background: lightgreen;
     text-align: center;
+    padding: auto;
 }
 
 
