@@ -104,11 +104,12 @@ body {
 
 
 .lefttext {
-    
-    background-color: green;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
     width: 600px;
+    background-color: green;
 }
-
 
 
 
@@ -118,13 +119,16 @@ body {
 .section {
     background-color: black;
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     padding: 40px;
     width: 60%;
     margin: 10rem auto 0 auto;}
 .section img {
     display: flex;
-    height: 250px;}
+    width: 100%;
+    height: auto;
+    }
 .section h3{
     margin: 0;
     color: yellow;}
