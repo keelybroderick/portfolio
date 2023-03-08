@@ -164,8 +164,7 @@ body {
 .section {
     background-color: black;
     display: flex;
-    
-    justify-content: space-between;
+
     padding: 40px;
     width: 600px;
     margin: 20px auto 0 auto;}
@@ -185,7 +184,8 @@ body {
     }
 .section h3{
     margin: 0;
-    color: yellow;}
+}
 .section p{
     margin: 0;
-    color: white;}
+    color: white;
+}
