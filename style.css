@@ -63,7 +63,7 @@ body {
 
 .title {
     display: flex;
-
+    flex-wrap: wrap;
     justify-content: center;
     background: rgb(255,1,0);
 }
@@ -76,6 +76,7 @@ body {
     width: 100%;
     height: auto;
 }
+
 
 
 
@@ -118,7 +119,6 @@ body {
     justify-content: center;
     background-color: purple;
 }
-
 .centeredcontent div{
     background-color: #f1f1f1;
     width: 600px;
@@ -127,7 +127,6 @@ body {
     margin: 10px 30px;
     border-radius: 10px;
 }
-
 .centeredcontent img{
     width: 100%;
     height: auto;
