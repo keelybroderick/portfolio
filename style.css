@@ -58,18 +58,39 @@ body {
     margin: auto;
 }
 
+
+
+
+
 .title {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     background: rgb(255,1,0);
 }
 
 .title div{
     background-color: #f1f1f1;
-    width: 650px;
-    flex-wrap: wrap;
+    width: 600px;
     text-align: center;
+    padding: 20px;
+    margin: 10px 30px;
+    border-radius: 10px;
 }
+
+.title img{
+    width: 100%;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
 
 
 .flex-container {
