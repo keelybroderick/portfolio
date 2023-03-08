@@ -142,8 +142,7 @@ body {
     background-color: tan;
 }
 .centeredmockups div{
-    background-color: #f1f1f1;
-    width: 600px;
+    width: 80%;
     text-align: center;
     margin: 10px 30px;
 }
