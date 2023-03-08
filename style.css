@@ -1,5 +1,8 @@
 #parent {
     margin: auto;
+    width: 1200px;
+    border: 3px solid #73AD21;
+    padding: 10px;
     background: yellow;
 }
 
@@ -26,7 +29,6 @@ h5 {
 body {
     font-size: 20px;
     font-family: sans-serif;
-    max-width: 1200px;
     padding: 40px 30px;
     margin: auto;
 }
