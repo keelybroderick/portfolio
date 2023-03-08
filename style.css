@@ -130,11 +130,11 @@ body {
     margin: 10rem auto 0 auto;}
 .sectioncopy {
     display: flex;
-    flex: 1;
+    width: 600px;
+    padding-right: 20px;
 }
 .section img {
     display: flex;
-    flex: 1;
     width: 100%;
     height: auto;
     }
