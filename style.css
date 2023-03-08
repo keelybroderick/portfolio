@@ -166,18 +166,19 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding: 40px;
     width: 600px;
     margin: 20px auto 0 auto;}
+.section div{
+    background-color: pink
+    margin: 20px auto 0 auto;;
+}
 .sectioncopy {
     display: flex;
-    flex: 1;
-    width: 450px;
+    width: 550px;
     padding-right: 20px;
 }
-.section img {
+.section img{
     display: flex;
-    flex: 1;
     width: 100%;
     height: auto;
     }
