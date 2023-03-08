@@ -79,8 +79,6 @@ body {
 
 
 
-
-
 .smoosh-container {
     display: flex;
     flex-wrap: wrap;
@@ -112,6 +110,10 @@ body {
     margin: 10px 30px;
     border-radius: 10px;
 }
+
+
+
+
 
 .centeredcontent {
     display: flex;
@@ -183,7 +185,6 @@ body {
     justify-content: left;
     background-color: green;
 }
-
 .lefttext div{
     background-color: #f1f1f1;
     width: 600px;
@@ -195,15 +196,15 @@ body {
 
 
 .section {
-    background-color: pink;
-    display: flex;
 
+    display: flex;
     width: 600px;
     margin: 40px auto 0 auto;}
 .section div{
     width: 550px;
     display: flex;
     flex-wrap: wrap;
+    background-color: pink;
 }
 .sectioncopy {
     padding-right: 20px;
@@ -211,7 +212,7 @@ body {
 .section img {
     width: 100%;
     height: auto;
-    }
+}
 .section h3{
     margin: 0;
 }
