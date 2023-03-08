@@ -237,7 +237,7 @@ body {
     display: flex;
     justify-content: space-between;
   }
-  .footer .footer_menu .title{
+  .footer .footer_menu .titled{
     margin-bottom: 10px;
     color: #adadad;
   }
@@ -255,34 +255,18 @@ body {
     text-decoration: underline;
   }
   @media (max-width:768px) {
-    .wrapper .navbar .logo{
+    .navbar{
       font-size: 20px;
-    }
-    .main_container {
-      padding: 25px;
-    }
-    .main_container .item{
-      flex-direction: column;
-    }
-    .main_container .item .img_holder{
-      max-width: 750px;
-      width: 100%;
-    }
-    .main_container .item .item_info{
-      margin-left: 0;
-      width: 100%;
-      margin-top: 10px;
-      text-align: center;
     }
     .footer .footer_menu{
       flex-direction: column;
       width: 220px;
       margin: 0 auto 25px;
     }
-    .footer .footer_menu > div{
+    .footer .footer_menu div{
       margin: 10px 0;
     }
-    .footer .partners ul li a{
+    .footer ul li a{
       margin: 5px;
     }
   }
