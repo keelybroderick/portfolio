@@ -68,6 +68,20 @@ body {
     height: auto;}
 
 
+
+
+
+.lefttext {
+    background-color: green;
+    width: 600px;
+}
+
+
+
+
+
+
+
 .section {
     background-color: black;
     display: flex;
