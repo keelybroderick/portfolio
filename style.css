@@ -133,19 +133,19 @@ body {
 }
 
 
-.centeredmockup {
+.centeredmockups {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     background-color: tan;
 }
-.centeredmockup div{
+.centeredmockups div{
     background-color: #f1f1f1;
     width: 600px;
     text-align: center;
     margin: 10px 30px;
 }
-.centeredmockup img{
+.centeredmockups img{
     width: 100%;
     height: auto;
 }
