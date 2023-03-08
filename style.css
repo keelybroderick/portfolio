@@ -60,7 +60,6 @@ body {
 
 .title {
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
     background: rgb(255,1,0);
 }
@@ -68,6 +67,7 @@ body {
 .title div{
     background-color: #f1f1f1;
     width: 650px;
+    flex-wrap: wrap;
     text-align: center;
 }
 
