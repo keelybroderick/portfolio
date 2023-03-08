@@ -42,22 +42,22 @@ h2 {
     font-size: 32px;
     font-weight: bold;
     text-decoration: underline;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
 }
 h3 {
     font-size: 26px;
     font-weight: bold;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
 }
 h4 {
     font-size: 26px;
     font-weight: lighter;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
 }
 h5 {
     font-size: 22px;
     font-weight: bold;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
 }
 body {
     font-size: 20px;
@@ -131,7 +131,7 @@ body {
     width: 600px;
     text-align: center;
     padding: 20px;
-    margin: 10px 0px;
+    margin: 10px 30px;
     border-radius: 10px;
 }
 .centeredcontent img{
