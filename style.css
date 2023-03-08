@@ -161,19 +161,17 @@ body {
 
 .half {
     display: flex;
-    height: 200px;
-}
-    
+    height: 300px;
+}   
 .rightside {
     flex: 1;
     background: lightblue;
-    justify-content: center;
+    text-align: center;
 }
-
 .leftside {
     flex: 1;
     background: lightgreen;
-    justify-content: center;
+    text-align: center;
 }
 
 
