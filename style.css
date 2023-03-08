@@ -68,17 +68,23 @@ body {
     height: auto;}
 
 
-    .full {
-        display: flex;
-        background: purple;}
-      .half {
-        display: flex;}
-      .rightside {
-        flex: 1;
-        background: lightblue;}
-      .leftside {
-        flex: 1;
-        background: lightgreen;}
+.full {
+    display: flex;
+    height: 200px;
+    background: purple;
+    justify-content: center;}
+.half {
+    display: flex;
+    height: 200px;}
+    
+.rightside {
+    flex: 1;
+    background: lightblue;
+    justify-content: center;}
+.leftside {
+    flex: 1;
+    background: lightgreen;
+    justify-content: center;}
 
 
 .lefttext {
