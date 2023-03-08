@@ -133,6 +133,25 @@ body {
 }
 
 
+.centeredmockup {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: tan;
+}
+.centeredmockup div{
+    background-color: #f1f1f1;
+    width: 600px;
+    text-align: center;
+    margin: 10px 30px;
+}
+.centeredmockup img{
+    width: 100%;
+    height: auto;
+}
+
+
+
 .full {
     display: flex;
     height: 200px;
