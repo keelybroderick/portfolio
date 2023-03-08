@@ -198,7 +198,6 @@ body {
     background-color: black;
     display: flex;
 
-    padding: 40px;
     width: 600px;
     margin: 20px auto 0 auto;}
 .section div{
@@ -228,9 +227,6 @@ body {
     padding: 0;
     text-decoration: none;
     list-style: none;
-  }
-  .col_1 .col_2 .col_3 .col_4{
-    padding-right: 10px;
   }
   .footer{
      background: #222222;
