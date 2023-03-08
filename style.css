@@ -164,7 +164,7 @@ body {
 .section {
     background-color: black;
     display: flex;
-    flex-wrap: wrap;
+    
     justify-content: space-between;
     padding: 40px;
     width: 600px;
@@ -173,6 +173,7 @@ body {
     flex: 1;
     width: 550px;
     display: flex;
+    flex-wrap: wrap;
     background-color: pink;
 }
 .sectioncopy {
