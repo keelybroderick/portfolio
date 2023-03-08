@@ -107,11 +107,17 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: left;
-    width: 600px;
     background-color: green;
 }
 
-
+.lefttext div{
+    background-color: #f1f1f1;
+    width: 600px;
+    text-align: left;
+    padding: 20px;
+    margin: 10px 30px;
+    border-radius: 10px;
+}
 
 
 
