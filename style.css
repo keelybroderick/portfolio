@@ -1,6 +1,5 @@
 body {
     margin: 0;
-    line-height: 4;
 }
 .topnav {
   overflow: hidden;
@@ -58,7 +57,6 @@ h5 {
 body {
     font-size: 20px;
     font-family: sans-serif;
-    padding: 40px 30px;
 
 }
 
