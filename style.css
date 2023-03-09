@@ -1,6 +1,5 @@
 body {
     margin: 0;
-    padding: 40px;
 }
 .topnav {
   overflow: hidden;
@@ -37,31 +36,37 @@ h1 {
     font-size: 40px;
     font-weight: bold;
     padding-bottom: 20px;
+    padding-left: 40px;
 }
 h2 {
     font-size: 32px;
     font-weight: bold;
     text-decoration: underline;
     padding-bottom: 20px;
+    padding-left: 40px;
 }
 h3 {
     font-size: 26px;
     font-weight: bold;
     padding-bottom: 20px;
+    padding-left: 40px;
 }
 h4 {
     font-size: 26px;
     font-weight: lighter;
     padding-bottom: 20px;
+    padding-left: 40px;
 }
 h5 {
     font-size: 22px;
     font-weight: bold;
     padding-bottom: 20px;
+    padding-left: 40px;
 }
 body {
     font-size: 20px;
     font-family: sans-serif;
+    padding-left: 40px;
 }
 
 
