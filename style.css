@@ -113,7 +113,7 @@ body {
     background-color: #f1f1f1;
     width: 300px;
     padding: 20px;
-    margin: 30px 30px;
+    margin: 50px 30px;
     border-radius: 10px;
 }
 
@@ -229,7 +229,7 @@ body {
 }
 .appdescription div{
     width: 400px;
-    margin: 10px 30px;
+    margin: 40px 30px;
     border-radius: 10px;
 }
 .appdescription img{
