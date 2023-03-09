@@ -254,8 +254,7 @@ body {
 .centerwords div{
     background-color: #f1f1f1;
     width: 600px;
-
-    margin: 30px 30px;
+    margin: 0 30px;
     border-radius: 10px;
 }
 
