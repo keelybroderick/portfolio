@@ -92,7 +92,7 @@ body {
 .smoosh-container div{
     background-color: #f1f1f1;
     width: 300px;
-    margin: 10px 30px;
+    margin: 30px 30px;
 }
 .smoosh-container img{
     width: 100%;
@@ -110,7 +110,7 @@ body {
     background-color: #f1f1f1;
     width: 300px;
     padding: 20px;
-    margin: 10px 30px;
+    margin: 30px 30px;
     border-radius: 10px;
 }
 
@@ -126,7 +126,7 @@ body {
     width: 600px;
     text-align: center;
     padding: 20px;
-    margin: 10px 30px;
+    margin: 30px 30px;
     border-radius: 10px;
 }
 .centeredcontent img{
@@ -144,7 +144,7 @@ body {
 .centeredmockups div{
     width: 80%;
     text-align: center;
-    margin: 10px 30px;
+    margin: 30px 30px;
 }
 .centeredmockups img{
     width: 100%;
@@ -200,7 +200,7 @@ body {
 }
 .section div{
     width: 400px;
-    margin: 10px 30px;
+    margin: 30px 30px;
     border-radius: 10px;
 }
 .section img{
@@ -217,7 +217,7 @@ body {
 }
 .appdescription div{
     width: 400px;
-    margin: 10px 30px;
+    margin: 30px 30px;
     border-radius: 10px;
 }
 .appdescription img{
