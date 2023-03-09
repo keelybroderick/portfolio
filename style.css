@@ -25,13 +25,12 @@ body {
 }
 
 
-
-
 #parent {
     margin: auto;
     width: 85%;
     background: yellow;
 }
+
 
 h1 {
     font-size: 40px;
@@ -84,7 +83,6 @@ body {
 }
 
 
-
 .smoosh-container {
     display: flex;
     flex-wrap: wrap;
@@ -102,7 +100,6 @@ body {
 }
 
 
-
 .flex-container {
     display: flex;
     flex-wrap: wrap;
@@ -113,9 +110,10 @@ body {
     background-color: #f1f1f1;
     width: 300px;
     padding: 20px;
-    margin: 40px 30px;
+    margin: 10px 30px;
     border-radius: 10px;
 }
+
 
 .centeredcontent {
     display: flex;
@@ -146,13 +144,12 @@ body {
 .centeredmockups div{
     width: 80%;
     text-align: center;
-    margin: 30px 30px;
+    margin: 10px 30px;
 }
 .centeredmockups img{
     width: 100%;
     height: auto;
 }
-
 
 
 .full {
@@ -161,6 +158,7 @@ body {
     background: purple;
     justify-content: center;
 }
+
 
 .half {
     display: flex;
@@ -194,9 +192,6 @@ body {
 }
 
 
-
-
-
 .section {
     display: flex;
     flex-wrap: wrap;
@@ -214,9 +209,6 @@ body {
 }
 
 
-
-
-
 .appdescription {
     display: flex;
     flex-wrap: wrap;
@@ -225,7 +217,7 @@ body {
 }
 .appdescription div{
     width: 400px;
-    margin: 40px 30px;
+    margin: 10px 30px;
     border-radius: 10px;
 }
 .appdescription img{
@@ -237,6 +229,7 @@ body {
 .listdetails {
 
 }
+
 
 * {
     margin: 0;
