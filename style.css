@@ -40,7 +40,6 @@ h1 {
 h2 {
     font-size: 32px;
     font-weight: bold;
-    text-decoration: underline;
     padding-bottom: 20px;
 }
 h3 {
@@ -67,7 +66,7 @@ body {
     padding-left: 20px;
 }
 .leftindented2 {
-    padding-left: 40px;
+    padding-left: 50px;
 }
 
 
