@@ -245,6 +245,19 @@ body {
 }
 
 
+.centerwords {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(96, 53, 0);
+}
+.centerwords div{
+    background-color: #f1f1f1;
+    width: 600px;
+    text-align: center;
+    padding: 20px;
+    margin: 30px 30px;
+}
+
 * {
     margin: 0;
     padding: 0;
