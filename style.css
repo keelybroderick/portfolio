@@ -75,7 +75,6 @@ body {
     justify-content: center;
 }
 .title div{
-    background-color: #f1f1f1;
     width: 600px;
     text-align: center;
     padding: 20px 0px;
@@ -182,7 +181,6 @@ body {
     justify-content: left;
 }
 .lefttext div{
-    background-color: #f1f1f1;
     width: 600px;
     text-align: left;
     padding: 20px 0px;
