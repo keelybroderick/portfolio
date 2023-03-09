@@ -74,7 +74,6 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background: rgb(255,1,0);
 }
 .title div{
     background-color: #f1f1f1;
@@ -92,7 +91,6 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background-color: blue;
 }
 .smoosh-container div{
     background-color: #f1f1f1;
@@ -109,7 +107,6 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background-color: rgb(255, 175, 4);
 }
 .flex-container div{
     background-color: #f1f1f1;
@@ -124,7 +121,6 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background-color: rgb(255, 0, 255);
 }
 .centeredcontent div{
     background-color: #f1f1f1;
@@ -160,7 +156,6 @@ body {
 .full {
     display: flex;
     height: 200px;
-    background: purple;
     justify-content: center;
 }
 
@@ -187,7 +182,6 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: left;
-    background-color: rgb(0, 255, 0);
 }
 .lefttext div{
     background-color: #f1f1f1;
@@ -201,7 +195,6 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background-color: rgb(244, 0, 0);
 }
 .section div{
     width: 400px;
@@ -218,7 +211,6 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background-color: rgb(244, 0, 232);
 }
 .appdescription div{
     width: 400px;
@@ -249,7 +241,6 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background-color: rgb(124, 81, 0);
 }
 .centerwords div{
     background-color: #f1f1f1;
