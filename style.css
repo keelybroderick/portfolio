@@ -231,6 +231,15 @@ body {
 }
 
 
+.imgleft {
+    width: 50%;
+}
+.imgleft img{
+    width: 100%;
+    height: auto;
+}
+
+
 * {
     margin: 0;
     padding: 0;
