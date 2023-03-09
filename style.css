@@ -247,8 +247,14 @@ body {
     list-style: none;
   }
   .footer{
-     background: #222222;
-     padding: 50px;
+    background: #222222;
+    padding: 50px;
+  }
+  .col_1 {
+    width: 200px;
+  }
+  .col_2 .col_3 .col_4 {
+    width: 100px;
   }
   .footer .footer_menu{
     display: flex;
