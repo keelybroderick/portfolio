@@ -63,6 +63,13 @@ body {
     font-family: sans-serif;
 }
 
+.leftindented {
+    padding-left: 20px;
+}
+.leftindented2 {
+    padding-left: 40px;
+}
+
 
 .title {
     display: flex;
